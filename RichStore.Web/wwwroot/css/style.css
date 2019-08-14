@@ -1,0 +1,40 @@
+
+.nav-link-white {
+    color: #FFFFFF;
+}
+
+.hr-2 {
+    height: 2px;
+}
+
+a {
+    text-underline: none;
+}
+
+a:hover {
+    outline: none;
+    text-decoration: none;
+}
+
+tr {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+textarea {
+    resize: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    border: 0;
+    width: 98%;
+}
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+
+
+

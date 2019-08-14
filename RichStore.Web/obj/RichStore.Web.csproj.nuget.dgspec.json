@@ -1,0 +1,377 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web\\RichStore.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj",
+        "projectName": "RichStore.Data",
+        "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj",
+        "packagesPath": "C:\\Users\\richi\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\richi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Mapping\\RichStore.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Mapping\\RichStore.Services.Mapping.csproj",
+        "projectName": "RichStore.Services.Mapping",
+        "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Mapping\\RichStore.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\richi\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\richi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services\\RichStore.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services\\RichStore.Services.csproj",
+        "projectName": "RichStore.Services",
+        "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services\\RichStore.Services.csproj",
+        "packagesPath": "C:\\Users\\richi\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\richi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj": {
+                "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\Richstore.Web.InputModels\\Richstore.Web.InputModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\Richstore.Web.InputModels\\Richstore.Web.InputModels.csproj",
+        "projectName": "Richstore.Web.InputModels",
+        "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\Richstore.Web.InputModels\\Richstore.Web.InputModels.csproj",
+        "packagesPath": "C:\\Users\\richi\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\Richstore.Web.InputModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\richi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web.ViewModels\\RichStore.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web.ViewModels\\RichStore.Web.ViewModels.csproj",
+        "projectName": "RichStore.Web.ViewModels",
+        "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web.ViewModels\\RichStore.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\richi\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\richi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web\\RichStore.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web\\RichStore.Web.csproj",
+        "projectName": "RichStore.Web",
+        "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web\\RichStore.Web.csproj",
+        "packagesPath": "C:\\Users\\richi\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\richi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj": {
+                "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj"
+              },
+              "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Mapping\\RichStore.Services.Mapping.csproj": {
+                "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Mapping\\RichStore.Services.Mapping.csproj"
+              },
+              "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services\\RichStore.Services.csproj": {
+                "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services\\RichStore.Services.csproj"
+              },
+              "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\Richstore.Web.InputModels\\Richstore.Web.InputModels.csproj": {
+                "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\Richstore.Web.InputModels\\Richstore.Web.InputModels.csproj"
+              },
+              "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web.ViewModels\\RichStore.Web.ViewModels.csproj": {
+                "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Web.ViewModels\\RichStore.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

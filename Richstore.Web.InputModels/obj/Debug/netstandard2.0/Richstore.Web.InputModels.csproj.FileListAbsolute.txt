@@ -1,0 +1,17 @@
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\bin\Debug\netstandard2.0\Richstore.Web.InputModels.deps.json
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\bin\Debug\netstandard2.0\Richstore.Web.InputModels.dll
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\bin\Debug\netstandard2.0\Richstore.Web.InputModels.pdb
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.csproj.CoreCompileInputs.cache
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.AssemblyInfoInputs.cache
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.AssemblyInfo.cs
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.dll
+C:\Users\richi\OneDrive\Работен плот\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.pdb
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\bin\Debug\netstandard2.0\Richstore.Web.InputModels.deps.json
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\bin\Debug\netstandard2.0\Richstore.Web.InputModels.dll
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\bin\Debug\netstandard2.0\Richstore.Web.InputModels.pdb
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.csprojAssemblyReference.cache
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.AssemblyInfoInputs.cache
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.AssemblyInfo.cs
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.dll
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\Richstore.Web.InputModels\obj\Debug\netstandard2.0\Richstore.Web.InputModels.pdb
