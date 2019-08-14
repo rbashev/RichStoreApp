@@ -58,9 +58,9 @@ namespace RichStore.Web
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+           
             CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
             CultureInfo.DefaultThreadCurrentUICulture = CultureInfo.InvariantCulture;
-
             using (var serviceScope = app.ApplicationServices.CreateScope())
             {
                 using (var context = serviceScope.ServiceProvider.GetRequiredService<RichStoreDbContext>())
@@ -86,18 +86,18 @@ namespace RichStore.Web
                 }
             }
 
+            env.EnvironmentName = "Development";
 
             app.UseDeveloperExceptionPage();
             app.UseDatabaseErrorPage();
 
-            app.UseExceptionHandler("/Home/Error");
+            //app.UseExceptionHandler("/Home/Error");
             app.UseHsts();
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseAuthentication();
-
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
