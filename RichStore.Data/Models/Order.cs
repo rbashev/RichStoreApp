@@ -14,6 +14,8 @@ namespace RichStore.Data.Models
 
         public Product Product { get; set; }
 
+        public OrderStatus Status { get; set; }
+
         public int Quantity { get; set; }
 
         public string OrdererId { get; set; }

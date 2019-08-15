@@ -1160,6 +1160,19 @@
         "runtime": {
           "bin/placeholder/RichStore.Data.dll": {}
         }
+      },
+      "RichStore.Services.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "RichStore.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RichStore.Services.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RichStore.Services.Models.dll": {}
+        }
       }
     }
   },
@@ -3931,12 +3944,18 @@
       "type": "project",
       "path": "../RichStore.Data/RichStore.Data.csproj",
       "msbuildProject": "../RichStore.Data/RichStore.Data.csproj"
+    },
+    "RichStore.Services.Models/1.0.0": {
+      "type": "project",
+      "path": "../RichStore.Services.Models/RichStore.Services.Models.csproj",
+      "msbuildProject": "../RichStore.Services.Models/RichStore.Services.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "RichStore.Data >= 1.0.0"
+      "RichStore.Data >= 1.0.0",
+      "RichStore.Services.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3971,6 +3990,9 @@
           "projectReferences": {
             "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj": {
               "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Data\\RichStore.Data.csproj"
+            },
+            "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Models\\RichStore.Services.Models.csproj": {
+              "projectPath": "D:\\SoftUni\\C#Web\\ASP.NET Core\\Project\\RichStore\\RichStore.Services.Models\\RichStore.Services.Models.csproj"
             }
           }
         }

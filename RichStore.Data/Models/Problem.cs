@@ -14,7 +14,7 @@ namespace RichStore.Data.Models
 
         public RichStoreUser Customer { get; set; }
 
-        public DateTime dateTime { get; set; }
+        public DateTime Date { get; set; }
 
         public bool NeedTechnician { get; set; }
     }

@@ -4396,7 +4396,8 @@
       },
       "RichStore.Services/1.0.0": {
         "dependencies": {
-          "RichStore.Data": "1.0.0"
+          "RichStore.Data": "1.0.0",
+          "RichStore.Services.Models": "1.0.0"
         },
         "runtime": {
           "RichStore.Services.dll": {}
@@ -4414,6 +4415,17 @@
         },
         "compile": {
           "RichStore.Services.Mapping.dll": {}
+        }
+      },
+      "RichStore.Services.Models/1.0.0": {
+        "dependencies": {
+          "RichStore.Data": "1.0.0"
+        },
+        "runtime": {
+          "RichStore.Services.Models.dll": {}
+        },
+        "compile": {
+          "RichStore.Services.Models.dll": {}
         }
       },
       "Richstore.Web.InputModels/1.0.0": {
@@ -6697,6 +6709,11 @@
       "sha512": ""
     },
     "RichStore.Services.Mapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RichStore.Services.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

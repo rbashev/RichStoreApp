@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RichStore.Data\RichStore.Data.csproj" />
+    <ProjectReference Include="..\RichStore.Services.Models\RichStore.Services.Models.csproj" />
   </ItemGroup>
 
 </Project>

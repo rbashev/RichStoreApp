@@ -22,3 +22,5 @@ D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services\obj\Debug\net
 D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services\obj\Debug\netstandard2.0\RichStore.Services.csproj.CopyComplete
 D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services\obj\Debug\netstandard2.0\RichStore.Services.dll
 D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services\obj\Debug\netstandard2.0\RichStore.Services.pdb
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services\bin\Debug\netstandard2.0\RichStore.Services.Models.dll
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services\bin\Debug\netstandard2.0\RichStore.Services.Models.pdb

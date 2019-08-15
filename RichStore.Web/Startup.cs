@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using RichStore.Data;
 using RichStore.Data.Models;
 using System.Globalization;
+using RichStore.Services;
 
 namespace RichStore.Web
 {
@@ -25,6 +26,8 @@ namespace RichStore.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            
+
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.
@@ -51,6 +54,12 @@ namespace RichStore.Web
 
                 options.User.RequireUniqueEmail = true;
             });
+
+            services.AddTransient<IProductService, ProductService>();
+            services.AddTransient<ICategorieService, CategorieService>();
+            services.AddTransient<IProblemService, ProblemService>();
+            services.AddTransient<IOrderService, OrderService>();
+            services.AddTransient<IReceiptService, ReceiptService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

@@ -88,3 +88,5 @@ D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Web\obj\Debug\netcorea
 D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Web\obj\Debug\netcoreapp2.2\RichStore.Web.csproj.CopyComplete
 D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Web\obj\Debug\netcoreapp2.2\RichStore.Web.dll
 D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Web\obj\Debug\netcoreapp2.2\RichStore.Web.pdb
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Web\bin\Debug\netcoreapp2.2\RichStore.Services.Models.dll
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Web\bin\Debug\netcoreapp2.2\RichStore.Services.Models.pdb

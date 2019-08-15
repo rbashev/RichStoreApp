@@ -4751,7 +4751,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "RichStore.Data": "1.0.0"
+          "RichStore.Data": "1.0.0",
+          "RichStore.Services.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RichStore.Services.dll": {}
@@ -4771,6 +4772,19 @@
         },
         "runtime": {
           "bin/placeholder/RichStore.Services.Mapping.dll": {}
+        }
+      },
+      "RichStore.Services.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "RichStore.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RichStore.Services.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RichStore.Services.Models.dll": {}
         }
       },
       "Richstore.Web.InputModels/1.0.0": {
@@ -13043,6 +13057,11 @@
       "type": "project",
       "path": "../RichStore.Services.Mapping/RichStore.Services.Mapping.csproj",
       "msbuildProject": "../RichStore.Services.Mapping/RichStore.Services.Mapping.csproj"
+    },
+    "RichStore.Services.Models/1.0.0": {
+      "type": "project",
+      "path": "../RichStore.Services.Models/RichStore.Services.Models.csproj",
+      "msbuildProject": "../RichStore.Services.Models/RichStore.Services.Models.csproj"
     },
     "Richstore.Web.InputModels/1.0.0": {
       "type": "project",

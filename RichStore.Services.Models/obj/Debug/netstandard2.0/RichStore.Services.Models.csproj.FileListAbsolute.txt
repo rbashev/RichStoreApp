@@ -1,0 +1,12 @@
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\bin\Debug\netstandard2.0\RichStore.Services.Models.deps.json
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\bin\Debug\netstandard2.0\RichStore.Services.Models.dll
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\bin\Debug\netstandard2.0\RichStore.Services.Models.pdb
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\bin\Debug\netstandard2.0\RichStore.Data.dll
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\bin\Debug\netstandard2.0\RichStore.Data.pdb
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\obj\Debug\netstandard2.0\RichStore.Services.Models.csprojAssemblyReference.cache
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\obj\Debug\netstandard2.0\RichStore.Services.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\obj\Debug\netstandard2.0\RichStore.Services.Models.AssemblyInfoInputs.cache
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\obj\Debug\netstandard2.0\RichStore.Services.Models.AssemblyInfo.cs
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\obj\Debug\netstandard2.0\RichStore.Services.Models.csproj.CopyComplete
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\obj\Debug\netstandard2.0\RichStore.Services.Models.dll
+D:\SoftUni\C#Web\ASP.NET Core\Project\RichStore\RichStore.Services.Models\obj\Debug\netstandard2.0\RichStore.Services.Models.pdb
